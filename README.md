@@ -18,7 +18,7 @@ A 32-bit Single-Cycle RISC-V (RV32I) Processor designed in Verilog HDL featuring
 ## Processor Architecture
 
 <p align="center">
-<img src="images/Processor_Architecture.png" width="850">
+<img src="rv32i-single-cycle-riscv-processor/Images/singlecycleprocessorArchitecture.jpg" width="850">
 </p>
 
 *A 32-bit Single-Cycle RISC-V (RV32I) Processor designed in Verilog HDL for educational purposes, FPGA implementation, RTL learning, and Digital Design practice.*
@@ -314,7 +314,7 @@ The simulation verifies:
 # Simulation Result
 
 <p align="center">
-<img src="images/Simulation Result.png" width="850">
+<img src="rv32i-single-cycle-riscv-processor/Images/Screenshot (396).png" width="850">
 </p>
 
 ---
